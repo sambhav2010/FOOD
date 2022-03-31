@@ -1,0 +1,17 @@
+#mff {
+    width: 100%;
+    height: 800px;
+    background-color: aqua;
+}
+
+img {
+    transition: transform .2s;
+}
+
+img:hower {
+    transform: scale(0.9)
+}
+body {
+    text-align: center;
+    background-color: darkblue;
+}
